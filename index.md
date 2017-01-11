@@ -1,6 +1,6 @@
 # Willkommen
 
-Test
+foo
 
 <div id="mapdiv"></div>
 <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
@@ -27,3 +27,4 @@ Test
 
 </script>
 
+bar
